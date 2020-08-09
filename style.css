@@ -1,0 +1,53 @@
+/* .form-contro {
+  border: 2px solid black;
+  background-color: rgb(255, 145, 0);
+  color: cornsilk;
+   height: rem; 
+  padding-bottom: 3px;
+} 
+*/
+
+label:hover {
+  background: rgb(0, 0, 0);
+  color: white;
+}
+.yaqoob {
+  border: 2px solid black;
+  margin: auto 0;
+  text-align: left;
+  position: absolute;
+  left: 30%;
+  top: 30%;
+  width: 700px;
+}
+.result {
+  /* border: 2px solid black; */
+  margin: auto 0;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  width: 700px;
+}
+p {
+  background-color: chartreuse;
+  padding-left: 10px;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  border: 2px solid black;
+}
+
+#male {
+  margin-left: 275px;
+  font-size: large;
+  width: 200px;
+}
+#female {
+  margin-left: 20px;
+  font-size: large;
+  width: 200px;
+}
+.active {
+  background-color: black;
+  color: aliceblue;
+}
